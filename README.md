@@ -37,3 +37,9 @@ Use the following credentials to login as a normal user
 
 -   Email: sleem@filament.com
 -   Password: Aa1234567
+
+## Project Explaination [Engish]
+
+[![Thumbnail](./thumbnail.jpg)](https://youtu.be/Fz5fBwnzlPA "Link Title")
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Fz5fBwnzlPA?si=7lbnngUVZBcECrLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
