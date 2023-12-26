@@ -26,8 +26,15 @@ A case study & a great challenge for me to assess my learning speed 💪
 
 ## Technical Stack
 
+### Dashboard
+
 - Laravel (PHP)
 - Filament
+
+### Database
+
+- PostgreSQL (SQL)
+- pgAdmin 4
 
 ## Admin Login
 
@@ -45,4 +52,4 @@ Use the following credentials to login as a normal user
 
 ## Project Explaination [Engish]
 
-[![Thumbnail](./thumbnail.jpg)](https://youtu.be/Fz5fBwnzlPA "Link Title")
+[![Thumbnail](./thumbnail.jpg)](https://youtu.be/Fz5fBwnzlPA)
