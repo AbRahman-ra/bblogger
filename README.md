@@ -24,6 +24,11 @@ A case study & a great challenge for me to assess my learning speed 💪
 
 ### End Date: 23-12-2023
 
+## Technical Stack
+
+- Laravel (PHP)
+- Filament
+
 ## Admin Login
 
 Use the following credentials to login as an admin
