@@ -42,3 +42,7 @@ Use the following credentials to login as a normal user
 
 -   Email: sleem@filament.com
 -   Password: Aa1234567
+
+## Project Explaination [Engish]
+
+[![Thumbnail](./thumbnail.jpg)](https://youtu.be/Fz5fBwnzlPA "Link Title")
